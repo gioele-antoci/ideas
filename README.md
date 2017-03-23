@@ -9,7 +9,7 @@ In _linear mode_ an user who attempts to continue the story will lock the entire
 I imagine a set of rules can be enforced by the story creator (e.g. maximum length per contribution).   
 Some stories may be geo-locked. The user can write a story (contribution) only if he/she is physically writing from the location selected.
 
-##OBD 2 reader + viewer (with Raspberry PI 3 + NodeJS)
+## OBD 2 reader + viewer (with Raspberry PI 3 + NodeJS)
 **Car stats and analysis**    
 People have already done this. You buy a [OBD](https://en.wikipedia.org/wiki/On-board_diagnostics) reader, hook it up to your car and on the other end to a 
 
